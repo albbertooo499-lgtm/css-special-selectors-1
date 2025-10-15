@@ -1,0 +1,10 @@
+li:hover{
+    background-color: brown;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+li:active {
+    background-color: darkred;
+    font-style: italic;
+}
